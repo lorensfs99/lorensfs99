@@ -1,4 +1,9 @@
-## Hi there 👋
+<h1 align="center"><b>Hi there, you can call me Lorens </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!--banner-->
+<div id="header" align="center">
+  <img src="https://vinyl.lofirecords.com/cdn/shop/t/11/assets/lofiboy.gif?v=103461765217895835051697884718" width="400"/>
+</div>
+
 
 <!--
 **lorensfs99/lorensfs99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
